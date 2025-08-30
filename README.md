@@ -24,10 +24,9 @@
 
 ## Integrantes do Grupo
 
-- Nome 1 — RA:  
-- Nome 2 — RA:  
-- Nome 3 — RA:  
-- Nome 4 — RA:  
+- Henrique Nellessen — RA: 10388168  
+- João Victor Cara — RA: 10409591
+- Rodrigo Graziani Romaris — RA: 10418111 
 
 ---
 

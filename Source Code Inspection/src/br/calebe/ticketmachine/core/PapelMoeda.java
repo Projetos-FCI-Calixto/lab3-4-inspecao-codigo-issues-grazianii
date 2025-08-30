@@ -6,6 +6,7 @@ package br.calebe.ticketmachine.core;
  */
 public class PapelMoeda {
 
+    // Interface: Visibilidade deveria ser 'default ou sem definição', respeitando encapsulamento
     protected int valor;
     protected int quantidade;
 
